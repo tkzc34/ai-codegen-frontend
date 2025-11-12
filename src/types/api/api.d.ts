@@ -29,7 +29,7 @@
  * ```
  *
  * @module types/api/api
- * @author Art Design Pro Team
+ * @author AI Code Gen Team
  */
 
 declare namespace Api {
